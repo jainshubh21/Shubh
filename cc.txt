@@ -1,0 +1,6 @@
+Q1. Describe need of VM migration with one example.
+Q2. Write any four challenges in implementation of cloud computing.
+
+Q1. What do you mean by green cloud computing? Give the diagram of energy efficiency cloud model.
+
+Q2. What do you mean by cloud exchange? How market trading can be done in cloud computing, give proper diagram.
